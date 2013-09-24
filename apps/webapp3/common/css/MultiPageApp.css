@@ -1,0 +1,44 @@
+/*
+*  Licensed Materials - Property of IBM
+*  5725-G92 (C) Copyright IBM Corp. 2006, 2013. All Rights Reserved.
+*  US Government Users Restricted Rights - Use, duplication or
+*  disclosure restricted by GSA ADP Schedule Contract with IBM Corp.
+*/
+
+/* Reset CSS */
+a, abbr, address, article, aside, audio, b, blockquote, body, canvas, caption, cite, code, dd, del, details, dfn, dialog, div, dl, dt, em, fieldset, figcaption, figure, footer, form, h1, h2, h3, h4, h5, h6, header, hgroup, html, i, iframe, img, ins, kbd, label, legend, li, mark, menu, nav, object, ol, p, pre, q, samp, section, small, span, strong, sub, summary, sup, table, tbody, td, tfoot, th, thead, time, tr, ul, var, video {
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+	font-size: 18px;
+}
+
+#AppBody {
+	height:auto;
+	margin: 0 auto;
+	width: auto;
+	background-color: #ccc;
+	overflow: hidden;
+	overflow-y: auto;
+}
+
+#header {
+	text-align: center;
+	background-color: #1D4D90;
+	color: #F9FAFB;
+	font-size: 16px;
+	height: 38px;
+	line-height: 38px;
+	border-bottom: 1px solid #BBBBBB;
+}
+
+
+#wrapper {
+	padding: 10px;
+}
+
+p{
+	padding: 10px;
+}
